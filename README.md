@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# REACT PROJECT - Burger Builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project covers a  lot of crucial concepts of react with firebase as well. If you are starting joureny with react this  is for you Follow me on [https://www.instagram.com/dani__graphicz/](https://www.instagram.com/dani__graphicz/).
 
 ## Available Scripts
 

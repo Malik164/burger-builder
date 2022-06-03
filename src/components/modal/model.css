@@ -1,0 +1,15 @@
+.model-wrapper{
+    position: fixed;
+    top: 0;
+    width:100vw !important;
+    height: 100vh !important;
+    z-index: 102;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.model{
+    position: relative;
+    z-index: 200;
+    /* font-size: small; */
+}
